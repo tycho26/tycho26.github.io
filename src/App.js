@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './css/skeleton.css';
 
 function App() {
